@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanveer Kaiser (Dihan)
 
-🎓 CS Graduate from Premier University | Prospective Graduate Student
+🎓 CS Graduate from Premier University|Prospective Graduate Student
 🤖 Passionate about **AI, Machine Learning & Data Science**  
 💻 Building intelligent solutions and exploring the future of technology
 
