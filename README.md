@@ -12,6 +12,6 @@
 
 📫 **Let's connect:** [Portfolio](https://tanveerk.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/tanveer-kaiser) | [Email](dihankt@gmail.com)
 
-![Dihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dihan07&show_icons=true&theme=tokyonight)
+![Dihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dihan07&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dihan07&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dihan07&layout=compact&theme=tokyonight&hide_border=true)
