@@ -13,3 +13,4 @@
 📫 **Let's connect:** [Portfolio](https://tanveerk.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/tanveer-kaiser) | [Email](dihankt@gmail.com)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Dihan07&color=blue)
